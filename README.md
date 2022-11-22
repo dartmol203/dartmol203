@@ -30,3 +30,9 @@
    ![Snake animation](https://github.com/dartmol203/dartmol203/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+   
+<div>
+   
+   <img height="180em" src="https://streak-stats.demolab.com?user=dartmol203&background=22272E&ring=32D1F7&dates=FFFF&fire=F7613E&hide_border=true&sideNums=FFFF&currStreakNum=F7613E&sideLabels=ADBAC7&stroke=32D1F&border_radius=10"/>
+   
+</div>
